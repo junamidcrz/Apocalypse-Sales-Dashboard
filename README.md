@@ -1,7 +1,7 @@
 # Apocalypse Sales Dashboard
 
 ## Situation
-You've just been hired as a Data Analyst at Adventure Works Bike Shop. Your first Job Order (JO) is to design and deliver an end-to-end data analytics solution for Sales Department from SCRATCH!
+You've just been hired as a Data Analyst at Apocalypse Shop. Your first Job Order (JO) is to design and deliver an end-to-end data analytics solution for Sales Department from SCRATCH!
 ## Task
 The Sales Manager disseminate your key tasks to develop an end-to-end data analytics solution Sales Dashboard. All have you given are 4 datasets in CSV format named: Sales, Store, Buyer, and Customer Information.
 
