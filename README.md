@@ -18,3 +18,5 @@ Utilize Power BI Desktop to:
 ## Result
 Streamlined data processing, enhanced data modeling, insightful analysis, and actionable insights through an intuitive dashboard interface at a glance.
 ## Final Output
+![Alt text](Final Output.png)
+ 
